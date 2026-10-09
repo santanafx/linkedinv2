@@ -1,0 +1,5 @@
+.env
+.venv/
+__pycache__/
+llm_terms.json
+*.csv
